@@ -76,4 +76,6 @@ This project demonstrates the practical application of machine learning classifi
 
 # Future Improvements
 * Test alternative classification models such as Decision Trees and Random Forests
+
+
 Author: Tebogo Mosehle
