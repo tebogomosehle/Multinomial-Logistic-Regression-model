@@ -11,6 +11,7 @@ Source: Primary household survey data collected during honours research
 Study area: Mankweng, Polokwane Local Municipality, Limpopo Province, South Africa
 
 Target variable: Household coping strategy choice (Multiclass classification)
+
 No of observation: 51
 
 Preparation:
